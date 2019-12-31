@@ -56,9 +56,9 @@ body{
     /* display: flex; */
     /* justify-content: center; */
     align-items: center;
-    flex-direction: column;
+    /* flex-direction: column; */
     /* display: inline-block; */
-    /* height: 210px; */
+    height: 710px;
     border-top-left-radius: 10%;
     border-top-right-radius: 10%;
     
